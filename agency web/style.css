@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f8f8;
+    font-family: sans-serif;
+}
+.navbar{
+    padding: 20px;
+}
+.navbar h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #fbbf24;
+}
+.hero{
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.hero h1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.hero h1 span{
+    color:blue;
+}
+.container{
+    display: flex;
+}
+.content{
+    padding:20px;
+}
+img {
+    width: 170px;
+    height: 130px;
+    float: left;
+    padding:20px;
+}
+footer {
+    text-align: right;
+    margin-top: 50px;
+}
+footer p {
+    color: #1e3a8a;
+}
